@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewModel</string>
+    <string name="masukkan_id_kota_misal_jakarta_1642911">Masukkan id kota misal Jakarta = 1642911</string>
+    <string name="jakarta_semarang">1642911,1650357,1627896</string>
+    <string name="cari">Cari</string>
+    <string name="nama">nama</string>
+    <string name="temperature">Temperature</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
